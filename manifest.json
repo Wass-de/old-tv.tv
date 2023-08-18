@@ -1,0 +1,23 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "OLD TV",
+    "short_name": "OLD TV",
+    "icons": [{
+      "src": "icon/lowres.webp",
+      "sizes": "64x64",
+      "type": "image/png"
+    }, {
+      "src": "64.png",
+      "sizes": "64x64"
+    }, {
+      "src": "128.png",
+      "sizes": "128x128"
+    }],
+    "scope": "/",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "theme_color": "#151717",
+    "background_color": "#151717"
+  }

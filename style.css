@@ -1,0 +1,32 @@
+* {
+    background-color: #151717;
+    margin: 0px;
+    padding: 0px;
+    block-size: 344px;
+}
+
+h1 {
+    color: #149414;
+    font-family: Inter;
+    font-size: 40px;
+    position: absolute;
+    left: 80px;
+}
+
+.t1 {
+    color: #149414;
+    font-family: Inter;
+    font-size: 30px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+
+.t2 {
+    color: #149414;
+    font-family: Inter;
+    font-size: 30px;
+    position: absolute;
+    left: 140px;
+    top: 220px;
+}
