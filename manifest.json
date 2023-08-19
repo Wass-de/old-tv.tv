@@ -1,23 +1,22 @@
 {
-    "lang": "en",
-    "dir": "ltr",
-    "name": "OLD TV",
-    "short_name": "OLD TV",
-    "icons": [{
-      "src": "icon/lowres.webp",
-      "sizes": "64x64",
-      "type": "image/png"
-    }, {
-      "src": "64.png",
+  "short_name": "OLD TV ",
+  "name": "OLD TV",
+  "theme_color": "#151717",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "Scope": "/",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/attachments/951919811737292824/1142584700200824892/64.png",
+      "type": "image/png",
       "sizes": "64x64"
-    }, {
-      "src": "128.png",
+    },
+    {
+      "src": "https://cdn.discordapp.com/attachments/951919811737292824/1142584700402139206/128.png",
+      "type": "image/png",
       "sizes": "128x128"
-    }],
-    "scope": "/",
-    "start_url": "https://wass-de.github.io/old-tv.tv/index.html",
-    "display": "fullscreen",
-    "orientation": "landscape",
-    "theme_color": "#151717",
-    "background_color": "#151717"
-  }
+    }
+  ],
+  "start_url": "https://wass-de.github.io/old-tv.tv/"
+}
